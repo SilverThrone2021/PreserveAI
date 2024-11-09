@@ -3,7 +3,7 @@
 Note to Shreyas Kaps
 --------------------
 Code is hosted here for ease of access
-https://colab.research.google.com/drive/1RihusDh3-yjqIl0O_NR0kDdLb1J91Wbe?usp=sharing
+[https://colab.research.google.com/drive/1RihusDh3-yjqIl0O_NR0kDdLb1J91Wbe?usp=sharing](https://colab.research.google.com/drive/1RihusDh3-yjqIl0O_NR0kDdLb1J91Wbe?usp=sharing)
 
 - Make sure to download the two .csv files locally and upload them to your google drive (detailed instructions are provided in the Colab Notebook).
 - Read/Follow instructions outlined in the notebook.
